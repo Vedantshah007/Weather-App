@@ -1,2 +1,2 @@
 # Weather-App
-This is a weather telling website
+This website informs you about the current weather of any location you search for
